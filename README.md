@@ -1,1 +1,1 @@
-# Lg-de-programa-o-js-1-projeto-alura
+# Lg-de-programação-js-1-projeto-alura
